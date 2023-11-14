@@ -2,4 +2,4 @@
 in questa repository inserirò gli output del corso in Cybesecurity di Epicode
 
 
-tutti gli output saranno rinominati seguendo la nomenclatura learn.epicode.com
+tutti i file saranno nominati seguendo la nomenclatura riportata nella sezione corsi di learn.epicode.com
